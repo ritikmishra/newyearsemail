@@ -1,0 +1,16 @@
+{
+  "sender": "64009334@ep-student.org",
+  "subject":"Happy Email test!",
+  "beginning":"I wish you",
+  "msg":" & Your Family",
+  "end":" a Very Happy Email Test \n \n -- \n Regards, Email Test Bot",
+  "messages": [
+    {
+      "to":"ritik.mishra314@gmail.com",
+      "msg" : ", James, Sanjai and Sanchita"
+    },
+    {
+      "to":"sanjai.misra@gmail.com"
+    }
+  ]
+}
